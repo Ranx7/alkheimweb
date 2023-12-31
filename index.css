@@ -1,0 +1,29 @@
+.titles{
+    color:gold;
+    font-family:'Castellar';
+    font-size:40px;
+
+
+
+}
+
+
+body{
+    background-color:black;
+
+
+}
+
+#first{
+    animation-name: rotate;
+    animation-duration: 2s;
+
+}
+
+@keyframes rotate{
+    100%{transform: rotateX(360deg)}
+    
+}
+
+
+
