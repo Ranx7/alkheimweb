@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alkheim Admin</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <h1 style="color:red">You have entered the ADMIN PANEL, leave immediately if you dont have permission from the owner.</h1>
+
+        <script>
+        fetch('https://api.ipify.org?format=json')
+          .then(response => response.json())
+          .then(data => {
+            console.log('Your IP address is:', data.ip);
+            alert('Your IP address is: ' + data.ip);
+          })
+        .catch(error => console.error('Error fetching IP address:', error));
+        </script>
+
+
+
+    <script type="text/javascript">
+        let question1 = confirm("This is a testing panel for developers, Leave?");
+        if(question1 == true){
+            window.location.href = "page3.html"
+        }
+        
+
+    </script>
+</body>
+</html>
