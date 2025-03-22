@@ -3,8 +3,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
-    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+   
 
 <!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 
@@ -14,28 +13,29 @@
     <image:loc>https://yourwebsite.com/images/ace.PNG</image:loc>
     <image:caption>Xian - AceofSpades profile picture</image:caption>
   </image:image>
-</url>
 
-<url>
+
+
   <loc>https://yourwebsite.com/members.html</loc>
   <image:image>
     <image:loc>https://yourwebsite.com/images/Karl.PNG</image:loc>
     <image:caption>Karl Tanangonan - Bxggs profile picture</image:caption>
   </image:image>
-</url>
 
-<url>
+
+
   <loc>https://yourwebsite.com/members.html</loc>
   <image:image>
     <image:loc>https://yourwebsite.com/images/xien.PNG</image:loc>
     <image:caption>Angela Xien - ComicXien profile picture</image:caption>
   </image:image>
-</url>
 
-<url>
+
+
   <loc>https://alkheim.vercel.app/page3.html</loc>
   <lastmod>2024-01-19T11:08:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+
 
 </urlset>
