@@ -8,30 +8,116 @@
 
 
 <url>
-  <loc>https://alkheim.vercel.app/</loc>
-  <lastmod>2024-01-19T11:08:45+00:00</lastmod>
-  <priority>1.00</priority>
+    <loc>https://yourwebsite.com/members.html</loc>
+    <image:image>
+      <image:loc>https://yourwebsite.com/images/ace.PNG</image:loc>
+      <image:caption>Xian - AceofSpades profile picture</image:caption>
+    </image:image>
 </url>
+
 <url>
-  <loc>https://alkheim.vercel.app/index.html</loc>
-  <lastmod>2024-01-19T11:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+    <loc>https://yourwebsite.com/members.html</loc>
+    <image:image>
+      <image:loc>https://yourwebsite.com/images/Karl.PNG</image:loc>
+      <image:caption>Karl Tanangonan - Bxggs profile picture</image:caption>
+    </image:image>
 </url>
+
+
 <url>
-  <loc>https://alkheim.vercel.app/page2.html</loc>
-  <lastmod>2024-01-19T11:08:45+00:00</lastmod>
-  <priority>0.80</priority>
+    <loc>https://yourwebsite.com/members.html</loc>
+    <image:image>
+      <image:loc>https://yourwebsite.com/images/xien.PNG</image:loc>
+      <image:caption>Angela Xien - ComicXien profile picture</image:caption>
+    </image:image>
 </url>
+
+
+<url>
+    <loc>https://yourwebsite.com/members.html</loc>
+    <image:image>
+      <image:loc>https://yourwebsite.com/images/john.PNG</image:loc>
+      <image:caption>John Joseph - SenpaiOten profile picture</image:caption>
+    </image:image>
+</url>
+
+<url>
+    <loc>https://yourwebsite.com/members.html</loc>
+    <image:image>
+      <image:loc>https://yourwebsite.com/images/mark.PNG</image:loc>
+      <image:caption>Mark - senpaimark profile picture</image:caption>
+    </image:image>
+</url>
+
+
+<url>
+    <loc>https://yourwebsite.com/members.html</loc>
+    <image:image>
+      <image:loc>https://yourwebsite.com/images/jewel.PNG</image:loc>
+      <image:caption>Jewel - NOTR3NZ profile picture</image:caption>
+    </image:image>
+</url>
+
+
+<url>
+    <loc>https://yourwebsite.com/members.html</loc>
+    <image:image>
+      <image:loc>https://yourwebsite.com/images/dayeeeter.JPG</image:loc>
+      <image:caption>Marc - DAYEEETER profile picture</image:caption>
+    </image:image>
+</url>
+
+
+<url>
+    <loc>https://yourwebsite.com/members.html</loc>
+    <image:image>
+      <image:loc>https://yourwebsite.com/images/carl.JPG</image:loc>
+      <image:caption>Janaiah - Carl profile picture</image:caption>
+    </image:image>
+</url>
+
+
+<url>
+    <loc>https://yourwebsite.com/members.html</loc>
+    <image:image>
+      <image:loc>https://yourwebsite.com/images/shammy.PNG</image:loc>
+      <image:caption>Catalleya Sham - Shammy profile picture</image:caption>
+    </image:image>
+</url>
+
+
+<url>
+    <loc>https://yourwebsite.com/members.html</loc>
+    <image:image>
+      <image:loc>https://yourwebsite.com/images/crypto.JPG</image:loc>
+      <image:caption>Michael Angelo - Crypto/Hollow profile picture</image:caption>
+    </image:image>
+</url>
+
+
+<url>
+    <loc>https://yourwebsite.com/members.html</loc>
+    <image:image>
+      <image:loc>https://yourwebsite.com/images/promaster.PNG</image:loc>
+      <image:caption>Dan - PromasterYTJava profile picture</image:caption>
+    </image:image>
+</url>
+
+<url>
+    <loc>https://yourwebsite.com/members.html</loc>
+    <image:image>
+      <image:loc>https://yourwebsite.com/images/Caleb.PNG</image:loc>
+      <image:caption>Caleb - PainSaga profile picture</image:caption>
+    </image:image>
+</url>
+
+      
 <url>
   <loc>https://alkheim.vercel.app/page3.html</loc>
   <lastmod>2024-01-19T11:08:45+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://alkheim.vercel.app/members.html</loc>
-  <lastmod>2024-01-19T11:08:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
+
 
 
 </urlset>
