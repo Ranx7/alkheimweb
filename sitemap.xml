@@ -1,66 +1,82 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
->
-
-  <url>
-    <loc>https://alkheim.vercel.app/members.html</loc>
-    <image:image>
-      <image:loc>https://alkheim.vercel.app/ace.PNG</image:loc>
-      <image:caption>Xian - AceofSpades profile picture</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://alkheim.vercel.app/Karl.PNG</image:loc>
-      <image:caption>Karl Tanangonan - Bxggs profile picture</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://alkheim.vercel.app/xien.PNG</image:loc>
-      <image:caption>Angela Xien - ComicXien profile picture</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://alkheim.vercel.app/john.PNG</image:loc>
-      <image:caption>John Joseph - SenpaiOten profile picture</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://alkheim.vercel.app/mark.PNG</image:loc>
-      <image:caption>Mark - senpaimark profile picture</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://alkheim.vercel.app/jewel.PNG</image:loc>
-      <image:caption>Jewel - NOTR3NZ profile picture</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://alkheim.vercel.app/dayeeeter.JPG</image:loc>
-      <image:caption>Marc - DAYEEETER profile picture</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://alkheim.vercel.app/carl.JPG</image:loc>
-      <image:caption>Janaiah - Carl profile picture</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://alkheim.vercel.app/shammy.PNG</image:loc>
-      <image:caption>Catalleya Sham - Shammy profile picture</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://alkheim.vercel.app/crypto.JPG</image:loc>
-      <image:caption>Michael Angelo - Crypto/Hollow profile picture</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://alkheim.vercel.app/promaster.PNG</image:loc>
-      <image:caption>Dan - PromasterYTJava profile picture</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://alkheim.vercel.app/Caleb.PNG</image:loc>
-      <image:caption>Caleb - PainSaga profile picture</image:caption>
-    </image:image>
-  </url>
-
-  <url>
-    <loc>https://alkheim.vercel.app/page3.html</loc>
-    <lastmod>2024-01-19T11:08:45+00:00</lastmod>
-    <priority>0.80</priority>
-  </url>
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>https://alkheim.vercel.app/</loc>
+	<lastmod>2025-03-26T13:21:48+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://alkheim.vercel.app/alkheim%20image.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://alkheim.vercel.app/index.html</loc>
+	<lastmod>2025-03-26T13:21:48+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://alkheim.vercel.app/page2.html</loc>
+	<lastmod>2025-03-26T13:21:48+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://alkheim.vercel.app/alkheim%20gc.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://alkheim.vercel.app/members.html</loc>
+	<lastmod>2025-03-26T13:21:48+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://alkheim.vercel.app/ace.PNG</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://alkheim.vercel.app/Karl.PNG</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://alkheim.vercel.app/xien.PNG</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://alkheim.vercel.app/john.PNG</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://alkheim.vercel.app/mark.PNG</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://alkheim.vercel.app/jewel.PNG</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://alkheim.vercel.app/dayeeeter.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://alkheim.vercel.app/carl.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://alkheim.vercel.app/shammy.PNG</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://alkheim.vercel.app/crypto.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://alkheim.vercel.app/promaster.PNG</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://alkheim.vercel.app/Caleb.PNG</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://alkheim.vercel.app/page3.html</loc>
+	<lastmod>2025-03-26T13:21:48+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://alkheim.vercel.app/bar.PNG</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://alkheim.vercel.app/UNITY_SYMBOL.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://alkheim.vercel.app/admin.html</loc>
+	<lastmod>2025-03-26T13:21:51+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
 </urlset>
